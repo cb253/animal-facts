@@ -19,4 +19,6 @@ Type "./source.ps1" to run the script
 Type d for dog fact || c for cat fact
 
 To run test use "Invoke-Pester -Output Detailed Rest.Tests.ps1"
-(may need to type 'exit' after running test in order to see test results)
+(type 'exit' after running test in order to see test results)
+
+Requires PowerShell 7
